@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="837d52f5-fbc4-483d-9645-c2a649b94210" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VbQb4Gj1y06aEvwgClcVRtLKjp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="837d52f5-fbc4-483d-9645-c2a649b94210" name="Default Changelist" comment="" />
+      <created>1577519382544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577519382544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="197" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577709764781">
+      <screen x="50" y="27" width="974" height="741" />
+    </state>
+    <state x="197" y="225" key="com.intellij.ide.util.TipDialog/50.27.974.741@50.27.974.741" timestamp="1577709764781" />
+    <state x="156" y="90" width="426" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577519828864">
+      <screen x="50" y="27" width="974" height="741" />
+    </state>
+    <state x="156" y="90" width="426" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/50.27.974.741@50.27.974.741" timestamp="1577519828864" />
+    <state x="38" y="89" key="search.everywhere.popup" timestamp="1577519758627">
+      <screen x="50" y="27" width="974" height="741" />
+    </state>
+    <state x="38" y="89" key="search.everywhere.popup/50.27.974.741@50.27.974.741" timestamp="1577519758627" />
+  </component>
+</project>
