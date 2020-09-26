@@ -1,4 +1,4 @@
 # My network coding
 For studying
 
-Most of the it works with python 2.
+You can check the version of me coding at the top of script.
